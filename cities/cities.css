@@ -1,0 +1,29 @@
+body{
+    background-color: rgb(211,222,214);
+}
+    h1{
+        text-align:center;
+    }
+    h2{
+        padding-left: 10px;
+    }
+    p{
+        padding-left: 10px;
+    }
+#mainContainer{
+background-color: lightcoral;
+width: 100%;
+height: 700px;
+}
+.card{
+    height: 400px;
+    width: 20%;
+    overflow: scroll;
+    background-color: lightgreen;
+    
+    margin:20px 5px;   
+    float:left;
+}
+.card>img{
+    width:100%;
+}
